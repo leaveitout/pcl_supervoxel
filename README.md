@@ -1,10 +1,15 @@
-# PCL Template Project
+# PCL Supervoxel
 
-A brief description of the project.
+Code for generating supervoxels for point clouds, using the PCL supervoxel method. Code is based on the PCL sample, updated for C++14.
 
 ## Installation
 
-Requires PCL 1.7, C++11 compatible compiler, ...
+Requires PCL 1.7, C++14 compatible compiler.
 
-Run cmake, make.
+````
+mkdir build
+cd build
+cmake ..
+make -j 8
+````
 
