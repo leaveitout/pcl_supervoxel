@@ -1,6 +1,7 @@
-# PCL Supervoxel
+# Supervoxel
 
-Code for generating supervoxels for point clouds, using the PCL supervoxel method. Code is based on the PCL sample, updated for C++14.
+Code for generating supervoxels for point clouds, using the supervoxel method implemented in the PCL library. Code is based on the PCL sample, updated for C++14.
+This project is not affiliated with the PCL project.
 
 ## Installation
 
